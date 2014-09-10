@@ -22,7 +22,7 @@
         <!--Search-->
         <scene sceneID="WbN-CD-89a">
             <objects>
-                <viewController id="lCW-wR-eOY" customClass="PKDXSearchParametersController" sceneMemberID="viewController">
+                <viewController id="lCW-wR-eOY" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ntM-Rl-FPI"/>
                         <viewControllerLayoutGuide type="bottom" id="zbH-cT-e7a"/>
